@@ -1,0 +1,41 @@
+.sec1{
+	border: 1px solid #e8e6e6;
+	border-radius: 15px;
+	padding: 10px;
+}
+#top h3{
+	text-transform: uppercase;
+}
+#mailInfo th{
+	width: 10%;
+}
+
+#mailInfo td{
+	width: 90%;
+}
+
+.table td, .table th {
+    padding: .25rem !important;
+}
+hr{
+	background: #666;
+}
+#msgBody h6{
+	text-decoration: underline;
+}
+
+legend { 
+  	display: block;
+  	padding: 0 5px !important;
+    width: auto !important;
+    max-width: 100%;
+    font-size: 1rem !important;
+    line-height: inherit;
+    color: inherit;
+    white-space: normal;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-left: 15px;
+    background: #ddd;
+    font-weight: bold;
+}
